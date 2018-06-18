@@ -1,3 +1,3 @@
 # ThoughtPool
 
-This repos will contain ideas.
+This repo will contain ideas.
